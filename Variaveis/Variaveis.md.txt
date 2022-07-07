@@ -1,0 +1,26 @@
+# Variáveis:
+
+## O que é uma variável?
+
+Variável é um espaço na memória do computador destinado a armazenar um dado que será usado durante a execução de um algoritmo.
+
+
+
+## Regras para o nome de uma variável:
+
+- [ ] Primeira letra não pode ser número
+
+- [ ] Não pode ter espaço em branco
+
+- [ ] Vedada a utilização de palavras reservadas
+
+- [ ] Pode ter caracteres e números
+
+  
+
+
+
+
+
+
+
